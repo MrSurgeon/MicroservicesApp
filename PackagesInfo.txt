@@ -1,0 +1,20 @@
+- Infrastructure Layer Packages
+	+ EF Core
+	+ EF Core Design
+	+ EF Core InMemory
+	+ EF Core SqlServer
+	+ EF Core Tools
+- Application Layer Packages
+	+ AutoMapper
+	+ FluentValidation
+	+ Mediatr
+- Api Layer Packages
+	+ Automapper.DependencyInjection
+	+ Mediatr
+	+ Mediatr.DependencyInjection
+	+ EF Core Design
+	+ Azure.Containers.tools.targets
+	+Swashbuckle.Aspnetcore
+
+
+	
